@@ -7,7 +7,7 @@ import java.io.IOException;
 import java.util.Scanner;
 import java.util.StringTokenizer;
 
-public class ExistanceOfFile {
+public class ileReader {
 
 	public static void main(String[] args) throws IOException {
 
