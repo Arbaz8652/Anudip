@@ -1,7 +1,0 @@
-01,Arbaz,Pathan,arbaz12@gmail.com,8888999898,2012-12-01,Engineer,100000,00011,Electrical
-02,salman,shaikh,sal123@gmail.com,9843563569,2015-01-03,jr.Engineew,89000,00012,Mechanical
-03,Aamir,Khan,aamirk@gmail.com,9804324571,2013-06-12,technician,54000,00013,Chemical
-04,Roshan,Shinde,eshinde@gmail.com,883679560,2007-07-09,Worker,50000,0000,NA
-04,Sameer,Khan,sam12@gmail.com,848639560,2019-07-09,Worker,30000,0000,NA
-05,Jack,Sparrow,jSparrow34@gmail.com,9076529568,2013-04-07,Supervisor,70000,00012,Mechanical
-06,Ember,Heard,em12He@gmail.com,7028345210,2020-10-01,service,40000,00013,Chemical
